@@ -1,5 +1,5 @@
 # 我最爱的编程入门书——啊哈C
-![](http://ww1.sinaimg.cn/large/88a3931agy1fw3m6luiacj20qo0hl4im.jpg)
+![](http://ww1.sinaimg.cn/large/88a3931agy1fw3mwb8g47j20gf0j00u7.jpg)
 
 ### 一句话概括内容
 
