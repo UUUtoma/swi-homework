@@ -36,6 +36,7 @@ RGB颜色模型的主要目的是在电子系统中检测，表示和显示图�
 RGB是一种依赖于设备的颜色空间：不同设备对特定RGB值的检测和重现都不一样，因为颜色物质（荧光剂或者染料）和它们对红、绿和蓝的单独响应水平随着制造商的不同而不同，甚至是同样的设备不同的时间也不同。
 
 [电脑显示器为啥能显示这么多种颜色？RGB颜色代码啥意思？李永乐老师5分钟讲三原色](https://www.bilibili.com/video/av25486342/)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%E9%A1%8F%E8%89%B2%E5%8A%A0%E6%B3%95.svg/330px-%E9%A1%8F%E8%89%B2%E5%8A%A0%E6%B3%95.svg.png)
 
 ### 2. CYMK颜色模式  
@@ -57,11 +58,11 @@ HSL和HSV二者都把颜色描述在圆柱坐标系内的点，这个圆柱的�
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Triangulo_HSV.png/330px-Triangulo_HSV.png)
 * HSV色轮允许用户快速地选择众多颜色
 ## **参考阅读**  
-Wiki - color： https://en.wikipedia.org/wiki/Color 
-Wiki - Additive color: https://en.wikipedia.org/wiki/Additive_color
-Wiki - Animal coloration: https://en.wikipedia.org/wiki/Animal_coloration
-Wiki - Structural coloration: https://en.wikipedia.org/wiki/Structural_coloration
-Wiki - Subtractive color:  https://en.wikipedia.org/wiki/Subtractive_color 
-Wiki - CYMK: https://en.wikipedia.org/wiki/CMYK_color_model
+Wiki - color： https://en.wikipedia.org/wiki/Color   
+Wiki - Additive color: https://en.wikipedia.org/wiki/Additive_color  
+Wiki - Animal coloration: https://en.wikipedia.org/wiki/Animal_coloration  
+Wiki - Structural coloration: https://en.wikipedia.org/wiki/Structural_coloration  
+Wiki - Subtractive color:  https://en.wikipedia.org/wiki/Subtractive_color   
+Wiki - CYMK: https://en.wikipedia.org/wiki/CMYK_color_model  
 
 
