@@ -3,9 +3,9 @@
 <!-- TOC -->
 
 - [**实验：硬件编程–机器指令编程**](#实验硬件编程机器指令编程)
-    - [**一、实验名称**: 硬件编程–机器指令编程](#一实验名称-硬件编程机器指令编程)
+    - [**一、实验名称** ：硬件编程–机器指令编程](#一实验名称-硬件编程机器指令编程)
     - [**二、实验目标** :](#二实验目标-)
-    - [**三、实验步骤：**](#三实验步骤)
+    - [**三、实验步骤** ：](#三实验步骤-)
         - [1.安装win7虚拟机配置实验环境](#1安装win7虚拟机配置实验环境)
         - [2. 使用简单 CPU 仿真工具 Pippin CPUSim 进行实验](#2-使用简单-cpu-仿真工具-pippin-cpusim-进行实验)
             - [TASK 1 **Program 1：Add 2 number**](#task-1-program-1add-2-number)
@@ -17,13 +17,13 @@
     - [**四、实验小结**](#四实验小结)
 
 <!-- /TOC -->
-## **一、实验名称**: 硬件编程–机器指令编程   
+## **一、实验名称** ：硬件编程–机器指令编程   
 ## **二、实验目标** :
 * 理解冯·诺伊曼计算机的结构
 * 理解机器指令的构成
 * 理解机器指令执行周期
 * 用汇编编写简单程序
-## **三、实验步骤：**
+## **三、实验步骤** ：
 ### 1.安装win7虚拟机配置实验环境
 [Download virtual machines  
 Test Microsoft Edge and versions of IE8 through IE11 using free virtual machines you download and manage locally.](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
