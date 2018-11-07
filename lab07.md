@@ -9,8 +9,8 @@
         - [1.安装win7虚拟机配置实验环境](#1安装win7虚拟机配置实验环境)
         - [2. 使用简单 CPU 仿真工具 Pippin CPUSim 进行实验](#2-使用简单-cpu-仿真工具-pippin-cpusim-进行实验)
             - [TASK 1 **Program 1：Add 2 number**](#task-1-program-1add-2-number)
-                - [(1). 点step after step。观察并回答下面问题：](#1-点step-after-step观察并回答下面问题)
-                - [(2). 点击“Binary”,观察回答下面问题](#2-点击binary观察回答下面问题)
+                - [(1) 点step after step。观察并回答下面问题：](#1-点step-after-step观察并回答下面问题)
+                - [(2) 点击“Binary”,观察回答下面问题](#2-点击binary观察回答下面问题)
             - [TASK 2 **PROGRAM 2:Count down loop**](#task-2-program-2count-down-loop)
                 - [(1) 输入程序Program 2，运行并回答问题：](#1-输入程序program-2运行并回答问题)
                 - [(2) 修改该程序，用机器语言实现 10+9+8+..1 ，输出结果存放于内存 Y](#2-修改该程序用机器语言实现-10981-输出结果存放于内存-y)
@@ -28,12 +28,11 @@
 [Download virtual machines  
 Test Microsoft Edge and versions of IE8 through IE11 using free virtual machines you download and manage locally.](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
-
 ### 2. 使用简单 CPU 仿真工具 Pippin CPUSim 进行实验
-http://www.science.smith.edu/~jcardell/Courses/CSC103/CPUsim/cpusim.html 
+[Pippin CPUSim](http://www.science.smith.edu/~jcardell/Courses/CSC103/CPUsim/cpusim.html)
 
 #### TASK 1 **Program 1：Add 2 number**  
-##### (1). 点step after step。观察并回答下面问题：  
+##### (1) 点step after step。观察并回答下面问题：  
     1. PC，IR 寄存器的作用。  
     2. ACC 寄存器的全称与作用。  
     3. 用“LOD #3”指令的执行过程，解释Fetch-Execute周期。  
@@ -51,10 +50,11 @@ ACC 寄存器全称为 accumulator。
 从PC中读取下一条指令的地址，访问PC中的内存地址，复制其中内容，将副本放入指令寄存器（IR）中。  
 **3.2 Decode instruction:**   
 Decoder 将指令译解成控制信号。  
+ALU 信号为 = 。
 **3.3 Get data:**  
 获取数据3    
 **3.4 Execute the instruction:**  
-将3放到累加器中和逻辑运算器中  
+将数据放入累加器中
 **3.5**  
  PC地址+2  
 4. 
@@ -62,16 +62,16 @@ Decoder 将指令译解成控制信号。
 从PC中读取下一条指令的地址，访问PC中的内存地址，复制其中内容，将副本放入指令寄存器（IR）中。  
 **3.2 Decode instruction:**  
 Decoder 将指令译解成控制信号。  
-逻辑运算器 执行+运算。  
+ALU 执行 + 运算。  
 **3.3 Get data：**  
-获取数据W = 3放到运算器中，将累加器中的7 放到运算器中。  
+获取数据 W = 3 放到 ALU 中，将累加器中的 7 放到 ALU 中。
 **3.4 Execute the instruction:**  
 ALU执行加法运算，累加器中得到结果10。   
 **3.5**  
  PC地址+2。  
 5. 获取数据时的寻址方式不同： LOD #3 是立即寻址，ADD W 是直接寻址。  
 
-##### (2). 点击“Binary”,观察回答下面问题  
+##### (2) 点击“Binary”,观察回答下面问题  
     1. 写出指令 “LOD #7” 的二进制形式，按指令结构，解释每部分的含义。
     2. 解释 RAM 的地址。
     3. 该机器CPU是几位的？（按累加器的位数）
