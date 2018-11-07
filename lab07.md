@@ -31,6 +31,7 @@ Test Microsoft Edge and versions of IE8 through IE11 using free virtual machines
 ### 2. 使用简单 CPU 仿真工具 Pippin CPUSim 进行实验
 [Pippin CPUSim](http://www.science.smith.edu/~jcardell/Courses/CSC103/CPUsim/cpusim.html)
 
+
 #### TASK 1 **Program 1：Add 2 number**  
 ##### (1) 点step after step。观察并回答下面问题：  
     1. PC，IR 寄存器的作用。  
