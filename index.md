@@ -8,6 +8,7 @@
 4. [04-解释名词、字符编码、图片压缩](hw04)
 5. [05-Gates and Circuits](hw05)
 6. [06-Computing Components](hw06)
+7. [07-Programming Barely](hw07)
 
 
 ## 实验与实践
