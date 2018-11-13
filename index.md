@@ -9,6 +9,7 @@
 5. [05-Gates and Circuits](hw05)
 6. [06-Computing Components](hw06)
 7. [07-Programming Barely](hw07)
+8. [08-Problem Solving and Algorithm Design (top-down method)](hw08)
 
 
 ## 实验与实践
