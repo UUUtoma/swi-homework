@@ -2,6 +2,9 @@
 实验工具：  
 [Construct 2](https://www.scirra.com/construct2)
 ![](images\lab08-1to2.gif)
+
+[[toc]]
+
 ## **一、游戏策划 - Concept**
 ### Setting
 你是一只进入美术馆的仓鼠，但你发现美术馆中的画都非常模糊，于是你试图靠近一些，去欣赏你向往的名画。  
