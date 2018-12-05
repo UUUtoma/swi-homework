@@ -3,7 +3,7 @@
 包含 :  
 1.snake_move_Dev.c  
 2.snake_move_Sublime(UTF-8).c  
-3.snake_eat_Dev.c
+3.snake_eat_Dev.c  
 4.snake_eat_Sublime(UTF-8).c  
 
 
