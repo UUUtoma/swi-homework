@@ -2,27 +2,32 @@
 ## 一、 热点领域
 ### 1. 人工智能
 提到互联网时代的热点领域不得不提人工智能，近年来人工智能领域的研究和讨论越来越热，国内BAT三巨头都设立了自己的人工智能实验室：  
-1.1 Tencent AI Lab[https://ai.tencent.com/ailab/zh/index](https://ai.tencent.com/ailab/zh/index)  
+1.1 Tencent AI Lab
+
+[https://ai.tencent.com/ailab/zh/index](https://ai.tencent.com/ailab/zh/index)  
 
 ![](images\lab17-make_ai_everywhere.gif)  
 
 腾讯的基础研究方向包括计算机视觉、语音识别、自然语言处理和机器学习，应用探索结合了腾讯场景与业务优势，为内容、游戏、社交和平台工具型AI四类，目前已打造出围棋AI“绝艺”，技术也被微信、QQ、天天快报和QQ音乐等上百个腾讯产品使用。
 
 1.2 阿里巴巴达摩院 - 人工智能实验室   
-[https://damo.alibaba.com/labs/ai] (https://damo.alibaba.com/labs/ai)  
+
+[https://damo.alibaba.com/labs/ai](https://damo.alibaba.com/labs/ai)  
 
 阿里巴巴达摩院下的人工智能实验室致力于研究前沿科技并与商业结合，将人工智能技术赋能机器，服务20亿消费者。当前孵化出天猫精灵个人助手等产品。  
 研究方向包括语音助手、工业设计、智能制造和机器人技术。
 
 1.3 百度AI开放平台
+
 [Baidu Research](http://research.baidu.com/)
 [百度AI开放平台](https://ai.baidu.com/)
+
 除了Silicon Valley AI Lab（硅谷人工智能实验室），百度试图通过平台化、生态化使AI实现落地，让产业链参与者共赢。
 
 ### 2. 区块链技术 
 >区块链是一个分布在全球各地、能够协同运转的数据库存储系统，区别于传统数据库运作——读写权限掌握在一个公司或者一个集权手上（中心化的特征），区块链认为，任何有能力架设服务器节点的人都可以参与其中。来自全球各地的掘金者在当地部署了自己的节点，并连接到区块链网络中，成为这个分布式数据库存储系统中的一个节点；一旦加入，该节点享有同其他所有节点完全一样的权利与义务（去中心化、分布式的特征）。与此同时，对于在区块链上开展服务的人，可以往这个系统中的任意的节点进行读写操作，最后全世界所有节点会根据某种机制的完成一次又依次的同步，从而实现在区块链网络中所有节点的数据完全一致。  
 >作者：盗盗
-[链接](https://www.zhihu.com/question/37290469/answer/293890531)
+[来源链接](https://www.zhihu.com/question/37290469/answer/293890531)
 
 去中心化是区块链技术的颠覆性特点，它无需中心化代理，实现了一种点对点的直接交互，使得高效率、大规模、无中心化代理的信息交互方式成为了现实。
 
